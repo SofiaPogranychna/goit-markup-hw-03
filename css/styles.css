@@ -63,7 +63,6 @@ text-decoration:none; }
 
  /*NAVIGATION-CONTACT*/
 .list-contact{font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -80,7 +79,8 @@ text-decoration:none; }
     letter-spacing: 0.02em;
     color: #FFFFFF;
     text-align: center;
-    margin-bottom: 48px;}
+    margin-bottom: 48px;
+    height:120px;}
 
 
 .section-one{background-color: #2e2f42;padding:188px 472px 292px;}
@@ -250,7 +250,7 @@ gap: 24px;}
     padding-bottom: 120px;
 }
 
-.portfolio-list-wrapper{ padding-top:32px;border: 1px solid #E7E9FC;border-top: #FFFFFF;}
+.portfolio-list-wrapper{padding-top: 32px;border: 1px solid #E7E9FC;border-top: #FFFFFF;}
 
 .portfolio-head{
     font-style: normal;
@@ -259,7 +259,6 @@ gap: 24px;}
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    margin-top:32px;
     margin-left: 16px;}
 
 .portfolio-head-paragraph{
@@ -269,6 +268,5 @@ gap: 24px;}
     letter-spacing: 0.02em;
     color: #434455;
     margin-top: 8px;
-    margin-left: 16px; margin-bottom: 32px;
-}
+    margin-left: 16px; margin-bottom: 32px;}
 
